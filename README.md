@@ -24,7 +24,7 @@
 </tr>
 </table>  
 
-<p align="center">
+<p style="text-align: center">
     <a href="https://github.com/budhitha/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="budhitha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=budhitha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -38,3 +38,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=budhitha&color=blueviolet" alt="Profile Views" />
 </p>
+
+
+![Metrics](https://github.com/yourusername/yourusername/blob/main/github-metrics.svg)
+
