@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Budhitha Perera
+<!-- README.md -->
+<h1 align="center">Hi 👋, I'm Budhitha Perera</h1>
+<p align="center">Welcome to my GitHub profile! Here's what I'm up to:</p>
+
 - 👀 I’m interested in Programming
 - 📫 How to reach me - budhitha.lp@live.com
 
@@ -28,3 +31,10 @@
 </p>
 
 <a href="https://github.com/budhitha/github-readme-activity-graph"><img alt="budhitha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=budhitha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+### 👀 Profile Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=budhitha&color=blueviolet" alt="Profile Views" />
+</p>
