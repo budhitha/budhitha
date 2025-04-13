@@ -40,5 +40,5 @@
 </p>
 
 
-![Metrics](https://github.com/yourusername/yourusername/blob/main/github-metrics.svg)
+![Metrics](https://github.com/budhitha/budhitha/blob/main/github-metrics.svg)
 
