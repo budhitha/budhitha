@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Metrics
-        uses: lowlighter/metrics@latest
+        uses: owlighter/metrics@dev
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
